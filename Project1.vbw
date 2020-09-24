@@ -1,0 +1,5 @@
+Form1 = 50, 50, 412, 391, Z, 25, 25, 387, 366, C
+modWriteReadINI = 50, 50, 412, 391, 
+modRegWrite = 88, 88, 427, 434, 
+modencrdecrypt = 132, 132, 600, 413, 
+modCtrlAltDel = 0, 0, 0, 0, C
